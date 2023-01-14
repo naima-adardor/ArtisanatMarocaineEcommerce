@@ -99,10 +99,6 @@
                                             <option value="SA">Saudi Arabia</option>
                                             <option value="SN">Senegal</option>
                                             <option value="RS">Serbia</option>
-                                            <option value="SC">Seychelles</option>
-                                            <option value="SL">Sierra Leone</option>
-                                            <option value="SG">Singapore</option>
-
 
                                         </select>
                                     </div>
@@ -120,9 +116,10 @@
                                         <select name="city" value ="" id="city">
                                             <option value="AF">Agadir</option>
                                             <option value="AX">Taroudant</option>
-                                            <option value="AL">ASSAFI</option>
+
                                             <option value="DZ">Casablanca</option>
                                             <option value="AS">Marakech</option>
+                                            <option value="AS">Safi</option>
                                         </select>
                                     </div>
                                 </div>
